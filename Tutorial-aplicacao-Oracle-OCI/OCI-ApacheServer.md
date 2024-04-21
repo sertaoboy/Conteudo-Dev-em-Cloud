@@ -15,6 +15,7 @@
 > 1.5 Deixe as outras opcoes conforme padrao e lcique em create para criar a instancia. Apos alguns minutos a maquina sera criada.
 
 <br>
+<br>
 
 
 # Passo 2 - Configure a liberacao da porta HTTP para sua instancia.
@@ -26,6 +27,8 @@
 > 2.6 Selecione Add Ingress Rules
 > Coloque as seguintes informacoes e selecione ADD
 
+<br>
+<br>
 
 # Conexao via SSh
 - Apos fazer o download da chave, abra um terminal e navegue ate a pasta onde a chave foi salva.
