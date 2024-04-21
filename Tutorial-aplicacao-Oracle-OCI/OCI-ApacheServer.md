@@ -10,13 +10,22 @@
 # Passo 1 - Criar uma instancia na Oracle Cloud do tipo gratuita(Always Free)
 
 
+
+
+
 ## 1.1 faca Login na sua conta 
 ## 1.2 Selecione Create a VM instance (Always Free)
 ## 1.3 Nas proximas telas utilize as configuracoes padrao sugeridas
 ## 1.4 Na tela abaixo, salve a chave em um local seguro na sua maquina pessoal. Esse e o arquivo que contem a chave privada para conectar na sua instancia SSH. Nao deixe esse arquivo salvo em outras maquinas.
 ## 1.5 Deixe as outras opcoes conforme padrao e lcique em create para criar a instancia. Apos alguns minutos a maquina sera criada.
 
+
+
+
 # Passo 2 - Configure a liberacao da porta HTTP para sua instancia.
+
+
+
 
 
 ## 2.1 Na pagina principal da sua conta selecione Compute --> Instances
