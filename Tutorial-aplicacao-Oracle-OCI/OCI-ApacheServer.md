@@ -8,6 +8,8 @@
   * Acessar o Apache Server via browser usando o IP publico ou DNS da instancia
 
 # Passo 1 - Criar uma instancia na Oracle Cloud do tipo gratuita(Always Free)
+
+
 ## 1.1 faca Login na sua conta 
 ## 1.2 Selecione Create a VM instance (Always Free)
 ## 1.3 Nas proximas telas utilize as configuracoes padrao sugeridas
@@ -15,6 +17,8 @@
 ## 1.5 Deixe as outras opcoes conforme padrao e lcique em create para criar a instancia. Apos alguns minutos a maquina sera criada.
 
 # Passo 2 - Configure a liberacao da porta HTTP para sua instancia.
+
+
 ## 2.1 Na pagina principal da sua conta selecione Compute --> Instances
 ## 2.2 Escolha a instancia que voce acabou de criar. Provavelmente so aparecera uma.
 ## 2.3 Nos detalhes da instancia clique no link Virtual CLoud Network conforme assinalado em vermelho abiaxo.
@@ -22,6 +26,7 @@
 ## 2.5 Selecione a Default security list
 ## 2.6 Selecione Add Ingress Rules
 ## Coloque as seguintes informacoes e selecione ADD
+
 
 # Conexao via SSh
 - Apos fazer o download da chave, abra um terminal e navegue ate a pasta onde a chave foi salva.
