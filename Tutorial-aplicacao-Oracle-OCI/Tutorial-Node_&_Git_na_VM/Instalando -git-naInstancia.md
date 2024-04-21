@@ -1,6 +1,6 @@
 ## Uma vez conectado na instancia:
 - `sudo su` # Para se tornar root
-- ~Instale o servidor do nodejs: `yum install nodejs`~ ou BROKEN
+- ~Instale o servidor do nodejs: `yum install nodejs` ou~ BROKEN
   - Step 1: Add node.js yum repository
 
 First we need to add yum repository of node.js to our system which is sourced from nodejs’ official website. Run the following commands in succession to add the yum repository.
